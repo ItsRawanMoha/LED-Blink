@@ -1,6 +1,6 @@
-# LED-Blink Project
+# LED-Blink Task
 
-Welcome to the LED-Blink project! This project provides a simple example of how to control an LED using a microcontroller. 
+Welcome to the LED-Blink Task! This project provides a simple example of how to control an LED using a microcontroller. 
 
 ## Table of Contents
 
@@ -61,6 +61,7 @@ void loop() {
 
 ## Pictures
 <img src="https://github.com/ItsRawanMoha/LED-Blink/blob/main/LED-BlinkP.jpeg" alt="Alt text" width="400" height="400">  ![screen-gif](https://github.com/ItsRawanMoha/LED-Blink/blob/main/LED-BlinkG.gif)
+
 ## Conclusion
 
 The LED-Blink project provides a simple yet effective demonstration of controlling an LED using a microcontroller. It serves as a great starting point for learning about basic electronics and microcontroller programming.
