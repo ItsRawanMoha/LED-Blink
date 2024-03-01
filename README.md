@@ -34,13 +34,13 @@ To get started with this project, you'll need the following:
 
 Follow these steps to set up the project:
 
-1. Connect the anode (longer leg) of the LED to digital pin 13 on the Arduino.
+1. Connect the anode (longer leg) of the LED to digital pin 2 on the Arduino.
 2. Connect the cathode (shorter leg) of the LED to the ground (GND) pin on the Arduino.
 3. Connect your Arduino board to your computer using the USB cable.
 
 ## Output
 
-Once you've completed the setup and uploaded the code to your Arduino board, you should see the LED connected to pin 13 blinking on and off at regular intervals.
+Once you've completed the setup and uploaded the code to your Arduino board, you should see the LED connected to pin 2 blinking on and off at regular intervals.
 
 ## Code
 ```
