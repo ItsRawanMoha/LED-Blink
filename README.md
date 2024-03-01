@@ -34,27 +34,27 @@ To get started with this project, you'll need the following:
 
 Follow these steps to set up the project:
 
-1. Connect the anode (longer leg) of the LED to digital pin 2 on the Arduino.
+1. Connect the anode (longer leg) of the LED to digital pin 8 on the Arduino.
 2. Connect the cathode (shorter leg) of the LED to the ground (GND) pin on the Arduino.
 3. Connect your Arduino board to your computer using the USB cable.
 
 ## Output
 
-Once you've completed the setup and uploaded the code to your Arduino board, you should see the LED connected to pin 2 blinking on and off at regular intervals.
+Once you've completed the setup and uploaded the code to your Arduino board, you should see the LED connected to pin 8 blinking on and off at regular intervals.
 
 ## Code
 ```
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
-  pinMode(2, OUTPUT);
+  pinMode(8, OUTPUT);
 }
 
 // the loop function runs over and over again forever
 void loop() {
-  digitalWrite(2, HIGH);  // turn the LED on (HIGH is the voltage level)
+  digitalWrite(8, HIGH);  // turn the LED on (HIGH is the voltage level)
   delay(1000);                      // wait for a second
-  digitalWrite(2, LOW);   // turn the LED off by making the voltage LOW
+  digitalWrite(8, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
 }
 ```
