@@ -15,7 +15,7 @@ Welcome to the LED-Blink project! This project provides a simple example of how 
 
 ## Introduction
 
-The LED-Blink project demonstrates how to blink an LED using a microcontroller. In this case, we'll be using an Arduino uno board, but the principles can be applied to other microcontroller platforms as well. The project is structured to be simple and easy to understand, making it ideal for beginners.
+The LED-Blink project demonstrates how to blink an LED using a microcontroller. In this case, we'll be using an Arduino uno board, but the principles can be applied to other microcontroller platforms as well. 
 
 ## How it Works
 
