@@ -38,6 +38,12 @@ Follow these steps to set up the project:
 2. Connect the cathode (shorter leg) of the LED to the ground (GND) pin on the Arduino.
 3. Connect your Arduino board to your computer using the USB cable.
 
+| Arduino       | LED            |
+| ------------- | -------------- |
+| 8             | Anode          |
+| GND           | Cathode        |
+
+
 ## Output
 
 Once you've completed the setup and uploaded the code to your Arduino board, you should see the LED connected to pin 8 blinking on and off at regular intervals.
