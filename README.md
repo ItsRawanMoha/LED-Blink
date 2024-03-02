@@ -2,17 +2,6 @@
 
 Welcome to the LED-Blink Task! This task provides a simple example of how to control an LED using a microcontroller. 
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [How it Works](#how-it-works)
-- [Getting Started](#getting-started)
-- [Steps & Connection](#steps-&-Connection)
-- [Output](#output)
-- [Code](#code)
-- [Pictures](#pictures)
-- [Conclusion](#conclusion)
-
 ## Introduction
 
 The LED-Blink task demonstrates how to blink an LED using a microcontroller. In this case, we'll be using an Arduino uno board, but the principles can be applied to other microcontroller platforms as well. 
