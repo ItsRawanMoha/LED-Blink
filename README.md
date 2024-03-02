@@ -1,6 +1,6 @@
 # LED-Blink Task
 
-Welcome to the LED-Blink Task! This project provides a simple example of how to control an LED using a microcontroller. 
+Welcome to the LED-Blink Task! This task provides a simple example of how to control an LED using a microcontroller. 
 
 ## Table of Contents
 
@@ -15,15 +15,15 @@ Welcome to the LED-Blink Task! This project provides a simple example of how to 
 
 ## Introduction
 
-The LED-Blink project demonstrates how to blink an LED using a microcontroller. In this case, we'll be using an Arduino uno board, but the principles can be applied to other microcontroller platforms as well. 
+The LED-Blink task demonstrates how to blink an LED using a microcontroller. In this case, we'll be using an Arduino uno board, but the principles can be applied to other microcontroller platforms as well. 
 
 ## How it Works
 
-The project uses an Arduino board to control the LED. The Arduino is programmed to toggle a digital pin on and off, which in turn controls the LED. By adjusting the timing of the toggling, we can control the blinking pattern of the LED.
+The task uses an Arduino board to control the LED. The Arduino is programmed to toggle a digital pin on and off, which in turn controls the LED. By adjusting the timing of the toggling, we can control the blinking pattern of the LED.
 
 ## Getting Started
 
-To get started with this project, you'll need the following:
+To get started with this task, you'll need the following:
 
 - An Arduino board (such as Arduino Uno)
 - A USB cable to connect the Arduino to your computer
@@ -32,7 +32,7 @@ To get started with this project, you'll need the following:
 
 ## Steps & Connection
 
-Follow these steps to set up the project:
+Follow these steps to set up the task:
 
 1. Connect the anode (longer leg) of the LED to digital pin 8 on the Arduino.
 2. Connect the cathode (shorter leg) of the LED to the ground (GND) pin on the Arduino.
@@ -70,4 +70,4 @@ void loop() {
 
 ## Conclusion
 
-The LED-Blink project provides a simple yet effective demonstration of controlling an LED using a microcontroller. It serves as a great starting point for learning about basic electronics and microcontroller programming.
+The LED-Blink task provides a simple yet effective demonstration of controlling an LED using a microcontroller. It serves as a great starting point for learning about basic electronics and microcontroller programming.
